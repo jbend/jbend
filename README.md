@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 ### :fire: My Stats :
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=jbend&show_icons=true&theme=synthwave)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=jbend&show_icons=true&theme=dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jbend&theme=dark&background=000000)](https://git.io/streak-stats)
 
