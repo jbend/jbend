@@ -12,7 +12,7 @@
 ### :fire: My Stats :
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jbend&show_icons=true&theme=cobalt2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=jbend&show_icons=true&theme=cobalt2" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
