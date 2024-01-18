@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Astro, SvelteKit, Rust 
+🔭 Astro, SvelteKit, Rust 
 
 
 
