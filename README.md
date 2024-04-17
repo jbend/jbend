@@ -1,4 +1,4 @@
-Actual human developer from 🇨🇦
+Actual human from 🇨🇦
 
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white&style=plastic)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white&style=plastic)
