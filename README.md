@@ -8,8 +8,8 @@ Front end frameworks:
 Styling:
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&style=plastic)
-DaisyUI
-Shadcn-svelte
+`DaisyUI`
+`Shadcn-svelte`
 
 
 Tooling:
@@ -28,8 +28,8 @@ Databases:
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&style=plastic&style=plastic)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&style=plastic)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&style=plastic) sans drama 
-DB2
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white&style=plastic)
+`DB2`
 
 
 
